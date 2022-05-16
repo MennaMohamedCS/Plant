@@ -1,6 +1,8 @@
 # Plant
-Responsive website plant
-using:
+# Responsive website plant
+## Technologies:
+```
 HTML
 Bootstrap
 CSS
+```
